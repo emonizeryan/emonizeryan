@@ -1,0 +1,26 @@
+# Halo, Saya Emonize ryan!
+Saya seorang pengembang perangkat lunak yang tertarik dengan teknologi AI dan pengembangan aplikasi web. Saya suka mempelajari hal-hal baru dan berkolaborasi dalam proyek open-source.
+
+## Proyek Utama
+- 🌟 **[Bitcoindata]
+
+## Teknologi yang Saya Kuasai
+- Python
+- JavaScript (React, Node.js)
+- Git dan GitHub
+## Hi there 👋
+
+<!--
+**emonizeryan/emonizeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
