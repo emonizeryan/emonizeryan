@@ -2,10 +2,9 @@
 Saya seorang pengembang perangkat lunak yang tertarik dengan teknologi AI dan pengembangan aplikasi web. Saya suka mempelajari hal-hal baru dan berkolaborasi dalam proyek open-source.
 
 ## Proyek Utama
-- 🌟 **[Bitcoindata]
+- 🌟 **[deploy smart contract]
 
 ## Teknologi yang Saya Kuasai
-- Python
 - JavaScript (React, Node.js)
 - Git dan GitHub
 ## Hi there 👋
