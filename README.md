@@ -1,4 +1,4 @@
-# Halo, Saya Emonize ryan!
+# Halo, Saya Riyan Pamuji!
 Saya seorang pengembang perangkat lunak yang tertarik dengan teknologi AI dan pengembangan aplikasi web. Saya suka mempelajari hal-hal baru dan berkolaborasi dalam proyek open-source.
 
 ## Proyek Utama
@@ -7,7 +7,7 @@ Saya seorang pengembang perangkat lunak yang tertarik dengan teknologi AI dan pe
 ## Teknologi yang Saya Kuasai
 - JavaScript (React, Node.js)
 - Git dan GitHub
-## Hi there 👋
+
 
 <!--
 **emonizeryan/emonizeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
